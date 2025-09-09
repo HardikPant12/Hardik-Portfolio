@@ -3,16 +3,12 @@
 Welcome to my personal portfolio website!  
 This site showcases my **projects, skills, resume, and contact details**.  
 
-🔗 **Live Demo**: [Click Here](https://your-username.github.io/portfolio/)  
+🔗 **Live Demo**: [Click Here](https://HardikPant12.github.io/Hardik-Portfolio/)
 📄 **Resume**: [Download Here](./Hardik_Pant_Resume.pdf)
 
 ---
 
-## 📸 Preview
-![Portfolio Preview](./preview.png)  
-*(Optional: Add a screenshot of your site and name it `preview.png` in your repo.)*
 
----
 
 ## 🚀 Features
 - Responsive **personal portfolio website**
